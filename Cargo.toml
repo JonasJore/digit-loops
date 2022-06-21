@@ -1,0 +1,14 @@
+[package]
+name = "digit-loops"
+version = "1.0.0"
+edition = "2021"
+authors = ["JonasJore <jonas.jore@gmail.com"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/JonasJore/digit-loops.git"
+documentation = "https://docs.rs/digit-loops/latest/digit_loops/"
+description = "Rust crate for finding the number of loops in given numbers"
+repository = "https://github.com/JonasJore/digit-loops"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
